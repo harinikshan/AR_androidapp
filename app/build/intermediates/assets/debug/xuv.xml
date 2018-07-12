@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="car_back1" size="0.700000 0.525000" />
+    <ImageTarget name="car_front1" size="0.700000 0.933100" />
+    <ImageTarget name="horn" size="0.090000 0.078300" />
+    <ImageTarget name="indicator" size="0.070000 0.020895" />
+    <ImageTarget name="start" size="0.010000 0.011530" />
+    <ImageTarget name="front_seat" size="0.700000 0.933100" />
+    <ImageTarget name="AC" size="0.030000 0.046008" />
+    <ImageTarget name="petrol" size="0.030000 0.019290" />
+    <ImageTarget name="speedometer" size="0.060000 0.066030" />
+    <ImageTarget name="rpm" size="0.040000 0.041400" />
+    <ImageTarget name="phone_control" size="0.060000 0.042317" />
+    <ImageTarget name="havoc" size="0.040000 0.021040" />
+    <ImageTarget name="media_control" size="0.020000 0.023731" />
+    <ImageTarget name="gear" size="0.040000 0.056300" />
+    <ImageTarget name="AC_adjust" size="0.060000 0.045660" />
+    <ImageTarget name="AC_control" size="0.030000 0.033480" />
+    <ImageTarget name="car_open" size="0.070000 0.043260" />
+    <ImageTarget name="car_front" size="0.700000 0.556850" />
+    <ImageTarget name="car_side" size="1.000000 0.443500" />
+    <ImageTarget name="car_back" size="0.700000 0.588000" />
+    <ImageTarget name="engine" size="0.300000 0.225000" />
+  </Tracking>
+</QCARConfig>
